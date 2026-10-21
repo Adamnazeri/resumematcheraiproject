@@ -1,36 +1,36 @@
 <div align="center">
 
-<!-- ⚡ ANIMATED ELECTRIC WAVING HEADER (TWINKLING ANIMATION) ⚡ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:1e1b4b,70:ca8a04,100:facc15&height=230&section=header&text=⚡%20ResumeMatcher%20AI%20⚡&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=100,000-Volt%20ATS%20Scoring,%20Semantic%20Skill%20Matcher%20%26%20Resume%20Overdrive%20Engine&descAlignY=58&descSize=17" width="100%" alt="Header Banner" />
+<!-- ⚡ ANIMATED ELECTRIC WAVING HEADER (100% MOBILE & CAMO SAFE) ⚡ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:eab308&height=220&section=header&text=ResumeMatcher%20AI&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=100,000-Volt%20ATS%20Scoring,%20Semantic%20Skill%20Matcher%20%26%20Resume%20Overdrive%20Engine&descAlignY=58&descSize=16" width="100%" alt="Header Banner" />
 
-<!-- ⚡ TRIPLE SYNCHRONIZED PIKACHU ATTACK SHOWCASE ⚡ -->
+<!-- ⚡ TRIPLE SYNCHRONIZED PIKACHU ATTACK SHOWCASE (ACTIVE GIFS) ⚡ -->
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/slVWEctHZKvWU/giphy.gif" width="100%" height="175" style="object-fit: cover; border-radius: 12px;" alt="Pikachu Charging Voltage" />
+      <img src="https://media.giphy.com/media/U2nN0ridM4lXy/giphy.gif" width="100%" height="170" style="object-fit: cover; border-radius: 12px;" alt="Pikachu Charging Voltage" />
       <br />
       <sub><b>⚡ STAGE 1:</b> Charging NLP Embeddings</sub>
     </td>
     <td align="center" width="34%">
-      <img src="https://media.giphy.com/media/NOalcASz5v7Jm/giphy.gif" width="100%" height="175" style="object-fit: cover; border-radius: 12px;" alt="Pikachu Giant Thunderbolt" />
+      <img src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif" width="100%" height="170" style="object-fit: cover; border-radius: 12px;" alt="Pikachu Thunderbolt Attack" />
       <br />
       <sub><b>💥 STAGE 2:</b> Crushing ATS Filters</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/12r4pHjvAOv48o/giphy.gif" width="100%" height="175" style="object-fit: cover; border-radius: 12px;" alt="Pikachu Full Power Blast" />
+      <img src="https://media.giphy.com/media/12r4pHjvAOv48o/giphy.gif" width="100%" height="170" style="object-fit: cover; border-radius: 12px;" alt="Pikachu Full Power Overdrive" />
       <br />
       <sub><b>🔥 STAGE 3:</b> 100% Match Overdrive</sub>
     </td>
   </tr>
 </table>
 
-<!-- ⚡ DUAL LIVE ANIMATED TYPING TERMINALS ⚡ -->
+<!-- ⚡ DUAL LIVE ANIMATED TYPING TERMINALS (ASCII ENCODED FOR GITHUB CAMO) ⚡ -->
 <a href="https://github.com/Adamnazeri/resumematcheraiproject">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=800&color=FACC15&center=true&vCenter=true&width=850&lines=⚡+PIKACHU+USED+THUNDERBOLT+ON+ATS+REJECTION+BOTS!;🔥+CRITICAL+HIT!+92%25+RESUME+TO+JOB+DESCRIPTION+MATCH!;🧠+SUPERCHARGED+WITH+PYTHON,+FASTAPI+%26+SEMANTIC+AI!" alt="Electric Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=FACC15&center=true&vCenter=true&width=820&lines=%3E%3E+PIKACHU+USED+THUNDERBOLT+ON+ATS+REJECTION+BOTS%21;%3E%3E+CRITICAL+HIT%21+92%25+RESUME+TO+JOB+DESCRIPTION+MATCH%21;%3E%3E+SUPERCHARGED+WITH+PYTHON%2C+FASTAPI+%26+SEMANTIC+AI%21" alt="Electric Typing SVG" />
 </a>
 <br />
 <a href="https://github.com/Adamnazeri/resumematcheraiproject">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=%5B%E2%9C%93%5D+Extracting+PDF+%26+DOCX+Entities...+%5B%E2%9C%93%5D+Computing+Vector+Similarity...;%5B%E2%9C%93%5D+Detecting+Missing+Keywords...+%5B%E2%9C%93%5D+Generating+AI+Tailoring+Report..." alt="Telemetry Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=%5BOK%5D+Extracting+PDF+%26+DOCX+Entities...+%5BOK%5D+Computing+Vector+Similarity...;%5BOK%5D+Detecting+Missing+Keywords...+%5BOK%5D+Generating+AI+Tailoring+Report..." alt="Telemetry Typing SVG" />
 </a>
 
 <br /><br />
@@ -44,6 +44,19 @@
 <img src="https://img.shields.io/badge/Power_Level-100,000_Volts-ec4899?style=for-the-badge&labelColor=090d16" alt="Power Level" />
 &nbsp;&nbsp;
 <img src="https://play.pokemonshowdown.com/sprites/ani-shiny/pikachu.gif" height="55" alt="Shiny Pikachu" />
+
+<br /><br />
+
+<!-- ⚡ PIKACHU SQUAD ANIMATED BAR ⚡ -->
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" height="45" alt="Gen5 Pikachu" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://play.pokemonshowdown.com/sprites/ani/pikachu-libre.gif" height="50" alt="Pikachu Libre" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://play.pokemonshowdown.com/sprites/ani/pikachu-rockstar.gif" height="50" alt="Pikachu Rockstar" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://play.pokemonshowdown.com/sprites/ani/pikachu-phd.gif" height="50" alt="Pikachu PhD" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/25.gif" height="45" alt="Gen5 Shiny Pikachu" />
 
 <br /><br />
 
@@ -64,8 +77,7 @@
 
 </div>
 
-<!-- ANIMATED ELECTRIC DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,50:facc15,100:06b6d4&height=4" width="100%" />
+<hr />
 
 ## ⚡ The ATS Boss Battle
 
@@ -97,8 +109,7 @@ Over **75% of resumes** get eliminated by automated **Applicant Tracking Systems
   </tr>
 </table>
 
-<!-- ANIMATED ELECTRIC DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:facc15,100:090d16&height=4" width="100%" />
+<hr />
 
 ## 📊 Live Thunderbolt Telemetry
 
@@ -141,8 +152,7 @@ Here is what a real-time **ResumeMatcher AI** evaluation looks like when matchin
   </tr>
 </table>
 
-<!-- ANIMATED ELECTRIC DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,50:facc15,100:06b6d4&height=4" width="100%" />
+<hr />
 
 ## 🏗️ High-Voltage AI Architecture
 
@@ -206,8 +216,7 @@ sequenceDiagram
     UI-->>User: Renders Animated Score & Optimization Blueprint
 ```
 
-<!-- ANIMATED ELECTRIC DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:facc15,100:090d16&height=4" width="100%" />
+<hr />
 
 ## 🧮 ATS Scoring Mathematics
 
@@ -229,8 +238,7 @@ pie showData
 | **🔑 Keywords & Action Verbs** | `20%` | Industry terminology, measurable impact metrics, and leadership indicators. | ⚡ **High** |
 | **📄 ATS Parseability** | `10%` | Clean section hierarchy, machine-readable text layers, and contact extraction. | 🛡️ **Essential** |
 
-<!-- ANIMATED ELECTRIC DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,50:facc15,100:06b6d4&height=4" width="100%" />
+<hr />
 
 ## 🚀 Quick Start & Deployment
 
@@ -301,8 +309,7 @@ uvicorn main:app --reload
 > [!TIP]
 > Once the server is running, open **`http://127.0.0.1:8000`** for the web interface, or visit **`http://127.0.0.1:8000/docs`** to test the AI endpoints directly via **Interactive Swagger UI**!
 
-<!-- ANIMATED ELECTRIC DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:facc15,100:090d16&height=4" width="100%" />
+<hr />
 
 ## 📡 API Payload Specs
 
@@ -364,18 +371,17 @@ resumematcheraiproject/
 ```
 </details>
 
-<!-- ANIMATED ELECTRIC DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,50:facc15,100:06b6d4&height=4" width="100%" />
+<hr />
 
 <div align="center">
 
 ## 👨‍💻 Engineered By
 
 <!-- PIKACHU FINISHER ANIMATION -->
-<img src="https://media.giphy.com/media/6nWhy3ulBL7GSCvKw6/giphy.gif" width="140" alt="Pixel Pikachu Running" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" height="75" alt="Pikachu Battle Animation" />
 <br />
 
-<img src="https://github.com/Adamnazeri.png" width="95" height="95" style="border-radius: 50%; border: 3px solid #facc15;" alt="Adam Nazeri" />
+<img src="https://github.com/Adamnazeri.png" width="95" height="95" style="border-radius: 50%;" alt="Adam Nazeri" />
 
 ### **Adam Nazeri**
 *Software Developer | Full-Stack & AI Systems Builder*
@@ -388,6 +394,6 @@ resumematcheraiproject/
 **⚡ If this project electrifies your workflow, smash that ⭐ Star button on GitHub! ⚡**
 
 <!-- ANIMATED ELECTRIC FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:1e1b4b,70:ca8a04,100:facc15&height=120&section=footer" width="100%" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:eab308&height=110&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
